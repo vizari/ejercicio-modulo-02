@@ -1,0 +1,10 @@
+.header{
+    position: relative;
+}
+.title-banner{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom:2rem;
+    background-color: #b0774ec4;
+}
